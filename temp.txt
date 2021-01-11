@@ -1,0 +1,7 @@
+<div class="h_img1">
+   <div class="image12">  <h1>
+        HELLO
+    </h1></div>
+    <div class="text1">
+<img src="home1.jpg" class="img"  height="600px">
+</div>
